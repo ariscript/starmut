@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Ari! 👋🏽
 
-<!--
-**starmut/starmut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student at Northeastern University, majoring in Computer Science
+and minoring in Math!
 
-Here are some ideas to get you started:
+I'm currently interested in learning about programming language design and compilers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience with web development technologies like JavaScript, TypeScript
+(using frameworks like React and Next.js),
+"native" apps using Electron, as well as some experience with Rust.
+
+I also want to learn more functional languages like Haskell or OCaml.
+
+I'm a Free Software enthusiast, all my public repos are Free Software.
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=starmut&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
+
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=starmut&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
